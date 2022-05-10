@@ -1,3 +1,1 @@
-FROM docker pull dockercloud/haproxy
-
-
+FROM dockercloud/haproxy
